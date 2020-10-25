@@ -1,0 +1,39 @@
+body {
+	background-size: contain;
+	background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pia13123-hires-1591453518.jpg);
+}
+h1 {
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	color: crimson;
+	font-size: 100px;
+}
+
+button {
+	font-size: 28 px;
+}
+div,
+div {
+	font-size: 30px;
+	color: crimson;
+	font-family: 'Fredoka One', cursive;
+}
+div.pickAGame {
+	font-family: 'Fredoka One', cursive;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+div.newCard {
+	border: 1px double crimson;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+	background-size: cover;
+	background-color: chartreuse;
+	text-align: center;
+}
+image {
+	display: contain;
+}
